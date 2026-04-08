@@ -766,8 +766,8 @@ def generate_accounts():
     threads_count = int(data.get('threads', 3))  # Reduced default
     
     # Safety limits
-    if count > 100:
-        count = 100
+    if count > 1000:
+        count = 1000
     if threads_count > MAX_THREADS:
         threads_count = MAX_THREADS
     
