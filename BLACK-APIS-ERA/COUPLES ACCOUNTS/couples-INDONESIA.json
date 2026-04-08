@@ -1,0 +1,42 @@
+[
+  {
+    "couple_id": "15335356408_15335356409",
+    "account1": {
+      "uid": 4699599531,
+      "password": "FF2024_7GZN8_BLACK_APIs_68JRV",
+      "account_id": "15335356408",
+      "name": "BLACK_A³⁴⁹¹⁰",
+      "session_id": "ead52852-e65b-40a9-8a50-9be3897666a8"
+    },
+    "account2": {
+      "uid": 4699599535,
+      "password": "FF2024_4RMBD_BLACK_APIs_KHH1Y",
+      "account_id": "15335356409",
+      "name": "BLACK_A⁹⁰⁶⁰⁴",
+      "session_id": "ead52852-e65b-40a9-8a50-9be3897666a8"
+    },
+    "reason": "Sequential Account IDs: 15335356408 & 15335356409",
+    "region": "INDONESIA",
+    "date_matched": "2026-04-08 21:57:34"
+  },
+  {
+    "couple_id": "15335356739_15335356738",
+    "account1": {
+      "uid": 4699599597,
+      "password": "FF2024_BKF57_BLACK_APIs_0CM5R",
+      "account_id": "15335356739",
+      "name": "BLACK_A⁰⁸³⁹⁴",
+      "session_id": "ead52852-e65b-40a9-8a50-9be3897666a8"
+    },
+    "account2": {
+      "uid": 4699599598,
+      "password": "FF2024_WPUYT_BLACK_APIs_IGR8T",
+      "account_id": "15335356738",
+      "name": "BLACK_A⁴⁴⁰³⁴",
+      "session_id": "ead52852-e65b-40a9-8a50-9be3897666a8"
+    },
+    "reason": "Sequential Account IDs: 15335356739 & 15335356738",
+    "region": "INDONESIA",
+    "date_matched": "2026-04-08 21:57:36"
+  }
+]

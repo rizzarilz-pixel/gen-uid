@@ -1,0 +1,22 @@
+[
+  {
+    "couple_id": "15335392273_15335392272",
+    "account1": {
+      "uid": 4699607430,
+      "password": "FF2024_QNKWV_BLACK_APIs_KOKK7",
+      "account_id": "15335392273",
+      "name": "BLACK_A³⁹⁴⁶⁰",
+      "session_id": "8e5b9c86-dbc2-459c-a4e4-fb9e596f8509"
+    },
+    "account2": {
+      "uid": 4699607429,
+      "password": "FF2024_E23F9_BLACK_APIs_VFFUS",
+      "account_id": "15335392272",
+      "name": "BLACK_A⁹¹⁰⁵³",
+      "session_id": "8e5b9c86-dbc2-459c-a4e4-fb9e596f8509"
+    },
+    "reason": "Sequential Account IDs: 15335392273 & 15335392272",
+    "region": "ME",
+    "date_matched": "2026-04-08 22:01:19"
+  }
+]

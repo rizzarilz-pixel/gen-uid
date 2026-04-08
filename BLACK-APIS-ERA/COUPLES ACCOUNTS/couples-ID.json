@@ -1,0 +1,62 @@
+[
+  {
+    "couple_id": "15334084193_15334084192",
+    "account1": {
+      "uid": 4699328116,
+      "password": "FF2025_XDFXE_BLACK_APIs_7JXLY",
+      "account_id": "15334084193",
+      "name": "BLACK_A⁶³²⁰⁵",
+      "session_id": "2227cff4-3769-4bc0-ac9a-a5ac6a6bbfdc"
+    },
+    "account2": {
+      "uid": 4699328114,
+      "password": "FF2025_CBYRS_BLACK_APIs_0Z30Y",
+      "account_id": "15334084192",
+      "name": "BLACK_A⁷⁸⁴⁵³",
+      "session_id": "2227cff4-3769-4bc0-ac9a-a5ac6a6bbfdc"
+    },
+    "reason": "Sequential Account IDs: 15334084193 & 15334084192",
+    "region": "ID",
+    "date_matched": "2026-04-08 19:56:48"
+  },
+  {
+    "couple_id": "15334084401_15334084400",
+    "account1": {
+      "uid": 4699328163,
+      "password": "FF2025_GIHN0_BLACK_APIs_8OTPD",
+      "account_id": "15334084401",
+      "name": "BLACK_A⁷⁸⁹²⁹",
+      "session_id": "2227cff4-3769-4bc0-ac9a-a5ac6a6bbfdc"
+    },
+    "account2": {
+      "uid": 4699328164,
+      "password": "FF2025_AKTEN_BLACK_APIs_YT24P",
+      "account_id": "15334084400",
+      "name": "BLACK_A²²⁹⁴⁴",
+      "session_id": "2227cff4-3769-4bc0-ac9a-a5ac6a6bbfdc"
+    },
+    "reason": "Sequential Account IDs: 15334084401 & 15334084400",
+    "region": "ID",
+    "date_matched": "2026-04-08 19:56:49"
+  },
+  {
+    "couple_id": "15334098202_15334098203",
+    "account1": {
+      "uid": 4699331067,
+      "password": "FF2025_GIBSG_BLACK_APIs_HT796",
+      "account_id": "15334098202",
+      "name": "BLACK_A⁰⁸⁷⁸⁵",
+      "session_id": "2227cff4-3769-4bc0-ac9a-a5ac6a6bbfdc"
+    },
+    "account2": {
+      "uid": 4699331068,
+      "password": "FF2025_UMEIT_BLACK_APIs_XQF0H",
+      "account_id": "15334098203",
+      "name": "BLACK_A¹⁶⁸⁵³",
+      "session_id": "2227cff4-3769-4bc0-ac9a-a5ac6a6bbfdc"
+    },
+    "reason": "Sequential Account IDs: 15334098202 & 15334098203",
+    "region": "ID",
+    "date_matched": "2026-04-08 19:58:07"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "couple_id": "15335317525_15335317526",
+    "account1": {
+      "uid": 4699590991,
+      "password": "Gok_LSU4W_BLACK_APIs_Y5ZZH",
+      "account_id": "15335317525",
+      "name": "Gok³³⁷³¹",
+      "session_id": "359a501f-392a-4e94-84cf-938cef2b5b93"
+    },
+    "account2": {
+      "uid": 4699590989,
+      "password": "Gok_MNHAK_BLACK_APIs_LGCHE",
+      "account_id": "15335317526",
+      "name": "Gok⁵⁷⁵¹⁹",
+      "session_id": "359a501f-392a-4e94-84cf-938cef2b5b93"
+    },
+    "reason": "Sequential Account IDs: 15335317525 & 15335317526",
+    "region": "BLACK_Apis",
+    "date_matched": "2026-04-08 21:53:34"
+  }
+]

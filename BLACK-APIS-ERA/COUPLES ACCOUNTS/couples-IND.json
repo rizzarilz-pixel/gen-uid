@@ -1,0 +1,102 @@
+[
+  {
+    "couple_id": "14353132059_14353126941",
+    "account1": {
+      "uid": 4389158002,
+      "password": "FF2024_TQADN_BLACK_APIs_7TZL9",
+      "account_id": "14353132059",
+      "name": "BLACK_A³⁰¹²²",
+      "session_id": "4dfef8c0-bb89-47ca-9030-e23f82d0dfda"
+    },
+    "account2": {
+      "uid": 4389156950,
+      "password": "FF2024_SHVCK_BLACK_APIs_AN0EC",
+      "account_id": "14353126941",
+      "name": "BLACK_A⁰¹²⁷⁹",
+      "session_id": "4dfef8c0-bb89-47ca-9030-e23f82d0dfda"
+    },
+    "reason": "Complementary sum: 14353132059 + 14353126941 = 28706259000",
+    "region": "IND",
+    "date_matched": "2026-01-07 17:14:44"
+  },
+  {
+    "couple_id": "14353144555_14353132445",
+    "account1": {
+      "uid": 4389160497,
+      "password": "FF2024_AY7LR_BLACK_APIs_SQF6S",
+      "account_id": "14353144555",
+      "name": "BLACK_A⁶⁷⁸⁶⁹",
+      "session_id": "4dfef8c0-bb89-47ca-9030-e23f82d0dfda"
+    },
+    "account2": {
+      "uid": 4389158067,
+      "password": "FF2024_OJNYP_BLACK_APIs_4VQRE",
+      "account_id": "14353132445",
+      "name": "BLACK_A⁴²²⁵³",
+      "session_id": "4dfef8c0-bb89-47ca-9030-e23f82d0dfda"
+    },
+    "reason": "Complementary sum: 14353144555 + 14353132445 = 28706277000",
+    "region": "IND",
+    "date_matched": "2026-01-07 17:16:30"
+  },
+  {
+    "couple_id": "14353153797_14353147203",
+    "account1": {
+      "uid": 4389162232,
+      "password": "FF2024_SJLPN_BLACK_APIs_T81JZ",
+      "account_id": "14353153797",
+      "name": "BLACK_A⁸⁰⁴⁸²",
+      "session_id": "4dfef8c0-bb89-47ca-9030-e23f82d0dfda"
+    },
+    "account2": {
+      "uid": 4389160957,
+      "password": "FF2024_VKV5M_BLACK_APIs_7J3LF",
+      "account_id": "14353147203",
+      "name": "BLACK_A⁵⁸⁵⁶⁴",
+      "session_id": "4dfef8c0-bb89-47ca-9030-e23f82d0dfda"
+    },
+    "reason": "Complementary sum: 14353153797 + 14353147203 = 28706301000",
+    "region": "IND",
+    "date_matched": "2026-01-07 17:17:46"
+  },
+  {
+    "couple_id": "14353247932_14353242068",
+    "account1": {
+      "uid": 4389180709,
+      "password": "FF2024_F0BLV_BLACK_APIs_NWROY",
+      "account_id": "14353247932",
+      "name": "BLACK_A⁷⁵⁶⁷⁶",
+      "session_id": "7464284e-3f4d-4478-acf3-a2cb8488371f"
+    },
+    "account2": {
+      "uid": 4389179553,
+      "password": "FF2024_TUCB3_BLACK_APIs_Y5Q2R",
+      "account_id": "14353242068",
+      "name": "BLACK_A⁸⁵⁶⁴⁰",
+      "session_id": "7464284e-3f4d-4478-acf3-a2cb8488371f"
+    },
+    "reason": "Complementary sum: 14353247932 + 14353242068 = 28706490000",
+    "region": "IND",
+    "date_matched": "2026-01-07 17:30:48"
+  },
+  {
+    "couple_id": "14353259308_14353250692",
+    "account1": {
+      "uid": 4389182836,
+      "password": "FF2024_06T11_BLACK_APIs_K4Q96",
+      "account_id": "14353259308",
+      "name": "BLACK_A⁵⁷⁹⁸²",
+      "session_id": "7464284e-3f4d-4478-acf3-a2cb8488371f"
+    },
+    "account2": {
+      "uid": 4389181206,
+      "password": "FF2024_MEB4C_BLACK_APIs_TCFFD",
+      "account_id": "14353250692",
+      "name": "BLACK_A³³⁹³²",
+      "session_id": "7464284e-3f4d-4478-acf3-a2cb8488371f"
+    },
+    "reason": "Complementary sum: 14353259308 + 14353250692 = 28706510000",
+    "region": "IND",
+    "date_matched": "2026-01-07 17:32:23"
+  }
+]
